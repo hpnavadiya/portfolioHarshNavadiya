@@ -1,4 +1,5 @@
-import Link from 'next/Link';
+import Link from 'next/link';
+
 import Image from 'next/image';
 import { HiArrowRight } from 'react-icons/hi2';
 

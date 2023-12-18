@@ -1,1 +1,1 @@
-# portfolioHarshNavadiya
+# ethan-portfolio-starter
